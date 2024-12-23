@@ -1,0 +1,6 @@
+/.env
+/blacklist.py
+/command.json
+/create_command.py
+/game_class.py
+/Game Block.JSON
